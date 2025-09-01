@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Users\31869\AppData\Local\Programs\Microsoft VS Code\cmake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Users\31869\Desktop\soft\Microsoft VS Code\cmake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Users\31869\AppData\Local\Programs\Microsoft VS Code\cmake\bin\cmake.exe" -E rm -f
+RM = "C:\Users\31869\Desktop\soft\Microsoft VS Code\cmake\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -76,30 +76,30 @@ CMakeFiles/common.dir/src/pnc_map.cpp.obj: CMakeFiles/common.dir/includes_CXX.rs
 CMakeFiles/common.dir/src/pnc_map.cpp.obj: C:/Users/31869/Desktop/Robot_Path_\ Trajectory/VS\ Code+mingw+cmake/cmake_planning_text_02/src/pnc_map.cpp
 CMakeFiles/common.dir/src/pnc_map.cpp.obj: CMakeFiles/common.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/common.dir/src/pnc_map.cpp.obj"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/pnc_map.cpp.obj -MF CMakeFiles\common.dir\src\pnc_map.cpp.obj.d -o CMakeFiles\common.dir\src\pnc_map.cpp.obj -c "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\pnc_map.cpp"
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/pnc_map.cpp.obj -MF CMakeFiles\common.dir\src\pnc_map.cpp.obj.d -o CMakeFiles\common.dir\src\pnc_map.cpp.obj -c "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\pnc_map.cpp"
 
 CMakeFiles/common.dir/src/pnc_map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/common.dir/src/pnc_map.cpp.i"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\pnc_map.cpp" > CMakeFiles\common.dir\src\pnc_map.cpp.i
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\pnc_map.cpp" > CMakeFiles\common.dir\src\pnc_map.cpp.i
 
 CMakeFiles/common.dir/src/pnc_map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/common.dir/src/pnc_map.cpp.s"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\pnc_map.cpp" -o CMakeFiles\common.dir\src\pnc_map.cpp.s
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\pnc_map.cpp" -o CMakeFiles\common.dir\src\pnc_map.cpp.s
 
 CMakeFiles/common.dir/src/process.cpp.obj: CMakeFiles/common.dir/flags.make
 CMakeFiles/common.dir/src/process.cpp.obj: CMakeFiles/common.dir/includes_CXX.rsp
 CMakeFiles/common.dir/src/process.cpp.obj: C:/Users/31869/Desktop/Robot_Path_\ Trajectory/VS\ Code+mingw+cmake/cmake_planning_text_02/src/process.cpp
 CMakeFiles/common.dir/src/process.cpp.obj: CMakeFiles/common.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/common.dir/src/process.cpp.obj"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/process.cpp.obj -MF CMakeFiles\common.dir\src\process.cpp.obj.d -o CMakeFiles\common.dir\src\process.cpp.obj -c "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\process.cpp"
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/process.cpp.obj -MF CMakeFiles\common.dir\src\process.cpp.obj.d -o CMakeFiles\common.dir\src\process.cpp.obj -c "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\process.cpp"
 
 CMakeFiles/common.dir/src/process.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/common.dir/src/process.cpp.i"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\process.cpp" > CMakeFiles\common.dir\src\process.cpp.i
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\process.cpp" > CMakeFiles\common.dir\src\process.cpp.i
 
 CMakeFiles/common.dir/src/process.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/common.dir/src/process.cpp.s"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\process.cpp" -o CMakeFiles\common.dir\src\process.cpp.s
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\src\process.cpp" -o CMakeFiles\common.dir\src\process.cpp.s
 
 # Object files for target common
 common_OBJECTS = \

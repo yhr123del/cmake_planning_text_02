@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/addr2line.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/ar.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "0"
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_COLOR_MAKEFILE",
@@ -119,7 +119,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/cmake/bin/cmake.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/cmake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -131,7 +131,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/cmake/bin/cpack.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/cmake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -143,7 +143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/cmake/bin/ctest.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/cmake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -155,11 +155,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/g++.exe"
+			"type" : "STRING",
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -175,7 +175,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/gcc-ar.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -191,7 +191,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/gcc-ranlib.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -299,11 +299,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/gcc.exe"
+			"type" : "STRING",
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -319,7 +319,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/gcc-ar.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -335,7 +335,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/gcc-ranlib.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -447,7 +447,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/dlltool.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EDIT_COMMAND",
@@ -459,7 +459,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/cmake/bin/cmake-gui.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/cmake/bin/cmake-gui.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Project"
+			"value" : "C:/Program Files (x86)/planning"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/ld.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/ld.exe"
 		},
 		{
 			"name" : "CMAKE_LIST_FILE_NAME",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/MICROS~1/MingW64/bin/mingw32-make.exe"
+			"value" : "C:/Users/31869/Desktop/soft/MICROS~1/mingw64/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -811,7 +811,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/nm.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -839,7 +839,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/objcopy.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -855,7 +855,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/objdump.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -991,7 +991,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/ranlib.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -1007,7 +1007,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/windres.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1115,7 +1115,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/readelf.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/cmake/share/cmake-4.1"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/cmake/share/cmake-4.1"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1335,7 +1335,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/31869/AppData/Local/Programs/Microsoft VS Code/MingW64/bin/strip.exe"
+			"value" : "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/bin/strip.exe"
 		},
 		{
 			"name" : "CMAKE_TAPI",
@@ -1368,42 +1368,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
-		},
-		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/build"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02"
 		},
 		{
 			"name" : "planning_BINARY_DIR",

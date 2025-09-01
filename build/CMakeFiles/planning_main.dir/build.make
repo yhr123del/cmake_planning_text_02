@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Users\31869\AppData\Local\Programs\Microsoft VS Code\cmake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Users\31869\Desktop\soft\Microsoft VS Code\cmake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Users\31869\AppData\Local\Programs\Microsoft VS Code\cmake\bin\cmake.exe" -E rm -f
+RM = "C:\Users\31869\Desktop\soft\Microsoft VS Code\cmake\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -76,15 +76,15 @@ CMakeFiles/planning_main.dir/planning_main.cpp.obj: CMakeFiles/planning_main.dir
 CMakeFiles/planning_main.dir/planning_main.cpp.obj: C:/Users/31869/Desktop/Robot_Path_\ Trajectory/VS\ Code+mingw+cmake/cmake_planning_text_02/planning_main.cpp
 CMakeFiles/planning_main.dir/planning_main.cpp.obj: CMakeFiles/planning_main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/planning_main.dir/planning_main.cpp.obj"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/planning_main.dir/planning_main.cpp.obj -MF CMakeFiles\planning_main.dir\planning_main.cpp.obj.d -o CMakeFiles\planning_main.dir\planning_main.cpp.obj -c "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\planning_main.cpp"
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/planning_main.dir/planning_main.cpp.obj -MF CMakeFiles\planning_main.dir\planning_main.cpp.obj.d -o CMakeFiles\planning_main.dir\planning_main.cpp.obj -c "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\planning_main.cpp"
 
 CMakeFiles/planning_main.dir/planning_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/planning_main.dir/planning_main.cpp.i"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\planning_main.cpp" > CMakeFiles\planning_main.dir\planning_main.cpp.i
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\planning_main.cpp" > CMakeFiles\planning_main.dir\planning_main.cpp.i
 
 CMakeFiles/planning_main.dir/planning_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/planning_main.dir/planning_main.cpp.s"
-	C:\Users\31869\AppData\Local\Programs\MICROS~1\MingW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\planning_main.cpp" -o CMakeFiles\planning_main.dir\planning_main.cpp.s
+	C:\Users\31869\Desktop\soft\MICROS~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\31869\Desktop\Robot_Path_ Trajectory\VS Code+mingw+cmake\cmake_planning_text_02\planning_main.cpp" -o CMakeFiles\planning_main.dir\planning_main.cpp.s
 
 # Object files for target planning_main
 planning_main_OBJECTS = \
