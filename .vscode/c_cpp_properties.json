@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/include",
+                "C:/Users/31869/Desktop/soft/Microsoft VS Code/mingw64/include/**"
             ],
             "defines": [
                 "_DEBUG",
