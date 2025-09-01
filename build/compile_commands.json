@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/build",
+  "command": "C:\\Users\\31869\\AppData\\Local\\Programs\\MICROS~1\\MingW64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c \"C:\\Users\\31869\\Desktop\\Robot_Path_ Trajectory\\VS Code+mingw+cmake\\cmake_planning_text_02\\planning_main.cpp\"",
+  "file": "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/build",
+  "command": "C:\\Users\\31869\\AppData\\Local\\Programs\\MICROS~1\\MingW64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning_main.dir\\pnc_map.cpp.obj -c \"C:\\Users\\31869\\Desktop\\Robot_Path_ Trajectory\\VS Code+mingw+cmake\\cmake_planning_text_02\\pnc_map.cpp\"",
+  "file": "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/pnc_map.cpp",
+  "output": "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/build",
+  "command": "C:\\Users\\31869\\AppData\\Local\\Programs\\MICROS~1\\MingW64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning_main.dir\\process.cpp.obj -c \"C:\\Users\\31869\\Desktop\\Robot_Path_ Trajectory\\VS Code+mingw+cmake\\cmake_planning_text_02\\process.cpp\"",
+  "file": "C:/Users/31869/Desktop/Robot_Path_ Trajectory/VS Code+mingw+cmake/cmake_planning_text_02/process.cpp",
+  "output": "CMakeFiles/planning_main.dir/process.cpp.obj"
+}
+]
